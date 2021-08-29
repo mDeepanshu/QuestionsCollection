@@ -1,0 +1,19 @@
+{
+  "name": "hundred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^5.13.1",
+    "chokidar": "^3.5.2",
+    "firebase-admin": "^9.11.1",
+    "node-tesseract-ocr": "^2.2.1",
+    "tesseract.js": "^2.1.5",
+    "uuid-v4": "^0.1.0"
+  }
+}
